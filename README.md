@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eya-sheikhrouhou&show_icons=true&theme=vue-dark" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-sheikhrouhou&layout=compact&theme=vue-dark" />
