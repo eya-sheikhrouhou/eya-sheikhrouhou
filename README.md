@@ -1,18 +1,60 @@
-<h3 align="center">A passionate developer from Tunisia</h3>
+<h1 align="center">Hi 👋, I'm Eya Sheikhrouhou</h1>
+<h3 align="center">💡 Data Science & Actuarial Student | Cybersecurity Enthusiast | Developer from Tunisia</h3>
 
-- 🔭 I’m currently working on [learning java](https://github.com/eya-sheikhrouhou/learnJava)
+---
 
-- 🌱 I’m currently learning **CyberSecurity,Linux,Java,WEB**
+### 🎓 Currently Studying at ESPRIT
+- 📊 Data Science & Actuarial Science
+- 💻 Java, Python, Web Dev, and Cybersecurity
+- 📈 Interested in: Machine Learning, AI in Finance, Risk Modeling, and Cloud Tools
 
-- 👨‍💻 All of my projects are available at [https://github.com/eya-sheikhrouhou](https://github.com/eya-sheikhrouhou)
+---
 
-- 📫 How to reach me **eya.sheikhrouhou@esprit.tn**
+### 🚀 What I'm Working On:
+- 📚 Improving my skills in **Python for Data Science**
+- 📊 Building models for **investment risk analysis & prediction**
+- 🤖 Creating real-time dashboards with **Dash & NLP models**
+- 🔐 Exploring **Cybersecurity** and **Linux administration**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 📫 Reach Me At:
+- 📧 [eya.sheikhrouhou@esprit.tn](mailto:eya.sheikhrouhou@esprit.tn)
+- 🌐 [My GitHub Portfolio](https://github.com/eya-sheikhrouhou)
+
+---
+
+### 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/eya-cheikhrouhou-247b81234/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/ayouta.castelville)
+
+---
+
+### 🛠️ Languages & Tools:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eya-cheikhrouhou-247b81234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eya-cheikhrouhou-247b81234/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ayouta.castelville" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ayouta.castelville" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+---
+
+### 📊 GitHub Stats (Optional)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eya-sheikhrouhou&show_icons=true&theme=vue-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-sheikhrouhou&layout=compact&theme=vue-dark" />
+</p>
+
+---
+
+> *"Stay curious, build relentlessly, and never stop learning."*
