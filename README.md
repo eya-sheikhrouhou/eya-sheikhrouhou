@@ -1,68 +1,78 @@
-<h1 align="center">Hi there 👋, I'm Eya Sheikhrouhou</h1>
-<h3 align="center">🎓 Data Science & Actuarial Student | 💻 Developer | 🔐 Cybersecurity Enthusiast | 🇹🇳 Based in Tunisia</h3>
+<h1 align="center">👋 Hi, I'm Eya Sheikhrouhou</h1>
+<h3 align="center">🎓 Data Science & Actuarial Engineering Student | 🛡️ Cybersecurity Enthusiast | 💡 Creative Problem Solver</h3>
 
 ---
-
-### 💡 About Me
-
-I'm a passionate and ambitious student at **ESPRIT** currently pursuing a dual specialization in **Data Science** and **Actuarial Science**.  
-I thrive on turning complex problems into elegant solutions — whether it's through **Python modeling**, **Java development**, or **web engineering**.  
-My interests lie at the intersection of **technology, analytics, and security**.
-
----
-
-### 🎯 Current Focus
-- 📊 Machine Learning & Predictive Analytics
-- 🔐 Cybersecurity Fundamentals & Linux Mastery
-- 💻 Building Dashboards (Dash/Plotly) for Real-Time Data Insights
-- ☁️ Exploring Cloud Platforms (Azure, Hugging Face, Streamlit Cloud)
-- 📈 Financial Modeling & Risk Analysis with AI
-
----
-
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/eya-cheikhrouhou-247b81234/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/ayouta.castelville)
-[![Email](https://img.shields.io/badge/Email-Esprit-blue?style=for-the-badge&logo=gmail)](mailto:eya.sheikhrouhou@esprit.tn)
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" alt="R" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="Oracle" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" alt="Symfony" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator" />
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eya-sheikhrouhou&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-sheikhrouhou&layout=compact&theme=github_dark" />
+  📍 Tunisia &nbsp;|&nbsp;
+  💼 ESPRIT Engineering School &nbsp;|&nbsp;
+  📧 eya.sheikhrouhou@esprit.tn
 </p>
 
 ---
 
-### 📌 Noteworthy Projects
-- 🔎 [Java Learning Repository](https://github.com/eya-sheikhrouhou/learnJava) — fundamentals and OOP projects
-- 💡 [Smart Airport System](https://github.com/eya-sheikhrouhou/smart_airport) — real-time automation system
+### 🚀 About Me
+
+🔍 I’m a curious and driven developer currently exploring the intersection of:
+
+- 📈 **Actuarial science**, risk modeling, and data-driven finance  
+- 🤖 **Machine learning** & AI for real-world problem-solving  
+- 🔐 **Cybersecurity** and Linux for ethical protection of systems  
+- 🌐 Full-stack development, APIs, and modern UI tools
+
+I’m passionate about building intelligent systems, sharing ideas, and turning data into decisions.
 
 ---
 
-> 🧠 *“I code to solve, I learn to grow, and I build to impact.”*
+### 📚 Current Focus
+- Developing a real-time **crypto risk analyzer** using NLP + Dash  
+- Working on a **voice-enabled due diligence assistant** using LLMs  
+- Strengthening skills in **Python, actuarial modeling, and API integration**  
+- Learning advanced techniques in **data visualization and time-series forecasting**
 
+---
+
+### 💼 Skills & Tools
+
+#### 🧠 Data Science & AI
+`Python` · `Pandas` · `Scikit-learn` · `Numpy` · `Dash` · `Matplotlib` · `Transformers`  
+`Machine Learning` · `Time Series Analysis` · `LLMs` · `FAISS` · `MongoDB`
+
+#### 💻 Development & Backend
+`Java` · `PHP` · `Node.js` · `MySQL` · `Oracle` · `API Integration` · `Linux` · `Flask`
+
+#### 🎨 UI & Creative
+`Flutter` · `HTML/CSS/JS` · `Adobe Illustrator` · `Photoshop` · `Figma`
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eya-cheikhrouhou-247b81234/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/ayouta.castelville" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:eya.sheikhrouhou@esprit.tn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats (Optional)
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eya-sheikhrouhou&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eya-sheikhrouhou&layout=compact&theme=radical" />
+</p>
+
+---
+
+### ✨ Quote I Live By
+
+> *“Data will talk to you if you’re willing to listen.” – Jim Bergeson*
+
+---
